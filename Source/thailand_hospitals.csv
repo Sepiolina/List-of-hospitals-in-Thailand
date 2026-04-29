@@ -1,0 +1,908 @@
+﻿name,province,district,beds_(as_of_2024)[1]
+Buriram Hospital,Buriram,Mueang,927
+Buddhasothorn Hospital,Chachoengsao,Mueang,652
+Chaiyaphum Hospital,Chaiyaphum,Mueang,793
+Prapokklao Hospital,Chanthaburi,Mueang,747
+Nakornping Hospital,Chiang Mai,Mae Rim,750
+Chiangrai Prachanukroh Hospital,Chiang Rai,Mueang,798
+Chonburi Hospital,Chonburi,Mueang,866
+Khon Kaen Hospital,Khon Kaen,Mueang,1238
+Lampang Hospital,Lampang,Mueang,745
+Nakhon Pathom Hospital,Nakhon Pathom,Mueang,860
+Maharat Nakhon Ratchasima Hospital,Nakhon Ratchasima,Mueang,1478
+Sawanpracharak Hospital,Nakhon Sawan,Mueang,749
+Maharaj Nakhon Si Thammarat Hospital,Nakhon Si Thammarat,Mueang,866
+Phra Nang Klao Hospital,Nonthaburi,Mueang,657
+Buddhachinaraj Phitsanulok Hospital,Phitsanulok,Mueang,952
+Phra Nakhon Si Ayutthaya Hospital,Phra Nakhon Si Ayutthaya,Mueang,560
+Vachira Phuket Hospital,Phuket,Mueang,550
+Chaophraya Abhaibhubejhr Hospital,Prachinburi,Mueang,504
+Ratchaburi Hospital,Ratchaburi,Mueang,855
+Rayong Hospital,Rayong,Mueang,679
+Roi Et Hospital,Roi Et,Mueang,881
+Sakon Nakhon Hospital,Sakon Nakhon,Mueang,907
+Samut Prakan Hospital,Samut Prakan,Mueang,594
+Samut Sakhon Hospital,Samut Sakhon,Mueang,693
+Saraburi Hospital,Saraburi,Mueang,700
+Sisaket Hospital,Sisaket,Mueang,853
+Hatyai Hospital,Songkhla,Hat Yai,797
+Chao Phraya Yommarat Hospital,Suphan Buri,Mueang,738
+Surat Thani Hospital,Surat Thani,Mueang,885
+Surin Hospital,Surin,Mueang,914
+Trang Hospital,Trang,Mueang,559
+Sunpasitthiprasong Hospital,Ubon Ratchathani,Mueang,1188
+Udon Thani Hospital,Udon Thani,Mueang,1143
+Uttaradit Hospital,Uttaradit,Mueang,655
+Yala Hospital,Yala,Mueang,553
+Amnat Charoen Hospital,Amnat Charoen,Mueang,444
+Ang Thong Hospital,Ang Thong,Mueang,324
+Bueng Kan Hospital,Bueng Kan,Mueang,272
+Nang Rong Hospital,Buriram,Nang Rong,459
+Chai Nat Narenthorn Hospital,Chai Nat,Mueang,367
+Phu Khiao Chaloem Phra Kiat Hospital,Chaiyaphum,Phu Khiao,324
+Chom Thong Hospital,Chiang Mai,Chom Thong,242
+Fang Hospital,Chiang Mai,Fang,232
+San Pa Tong Hospital,Chiang Mai,San Pa Tong,196
+San Sai Hospital,Chiang Mai,San Sai,234
+Mae Sai Hospital,Chiang Rai,Mae Sai,156
+Pattaya Bhattamakhun Hospital,Chonburi,Bang Lamung,408
+Phanat Nikhom Hospital,Chonburi,Phanat Nikhom,220
+Chumphon Khet Udomsak Hospital,Chumphon,Mueang,522
+Kalasin Hospital,Kalasin,Mueang,570
+Kamphaeng Phet Hospital,Kamphaeng Phet,Mueang,492
+Makarak Hospital,Kanchanaburi,Tha Maka,280
+Phaholpolpayuhasena Hospital,Kanchanaburi,Mueang,597
+Chum Phae Hospital,Khon Kaen,Chum Phae,360
+Sirindhorn Hospital,Khon Kaen,Mueang,170
+Krabi Hospital,Krabi,Mueang,447
+Lamphun Hospital,Lamphun,Mueang,411
+Loei Hospital,Loei,Mueang,558
+Ban Mi Hospital,Lopburi,Ban Mi,258
+King Narai Hospital,Lopburi,Mueang,550
+Srisangwan Hospital,Mae Hong Son,Mueang,154
+Maha Sarakham Hospital,Maha Sarakham,Mueang,538
+Mukdahan Hospital,Mukdahan,Mueang,485
+Nakhon Nayok Hospital,Nakhon Nayok,Mueang,314
+Nakhon Phanom Hospital,Nakhon Phanom,Mueang,392
+Pak Chong Nana Hospital,Nakhon Ratchasima,Pak Chong,303
+Phimai Hospital,Nakhon Ratchasima,Phimai,189
+Debaratana Nakhon Ratchasima Hospital,Nakhon Ratchasima,Mueang,276
+Sichon Hospital,Nakhon Si Thammarat,Sichon,306
+Tha Sala Hospital,Nakhon Si Thammarat,Tha Sala,300
+Thung Song Hospital,Nakhon Si Thammarat,Thung Song,330
+Nan Hospital,Nan,Mueang,557
+Naradhiwas Rajanagarindra Hospital,Narathiwat,Mueang,413
+Su-ngai Kolok Hospital,Narathiwat,Su-ngai Kolok,212
+Nong Bua Lamphu Hospital,Nong Bua Lamphu,Mueang,353
+Nong Khai Hospital,Nong Khai,Mueang,420
+Tha Bo Crown Prince Hospital,Nong Khai,Tha Bo,266
+Pathum Thani Hospital,Pathum Thani,Mueang,456
+Pattani Hospital,Pattani,Mueang,504
+Phang Nga Hospital,Phang Nga,Mueang,215
+Takua Pa Hospital,Phang Nga,Takua Pa,209
+Phatthalung Hospital,Phatthalung,Mueang,567
+Chiang Kham Hospital,Phayao,Chiang Kham,231
+Phayao Hospital,Phayao,Mueang,400
+Lom Sak Hospital,Phetchabun,Lom Sak,235
+Phetchabun Hospital,Phetchabun,Mueang,510
+Wichian Buri Hospital,Phetchabun,Wichian Buri,243
+Phrachomklao Hospital,Phetchaburi,Mueang,463
+Phichit Hospital,Phichit,Mueang,400
+Phrae Hospital,Phrae,Mueang,568
+Sena Hospital,Phra Nakhon Si Ayutthaya,Sena,208
+Kabin Buri Hospital,Prachinburi,Kabin Buri,256
+Bang Saphan Hospital,Prachuap Khiri Khan,Bang Saphan,156
+Hua Hin Hospital,Prachuap Khiri Khan,Hua Hin,395
+Prachuap Khiri Khan Hospital,Prachuap Khiri Khan,Mueang,278
+Ranong Hospital,Ranong,Mueang,300
+Ban Pong Hospital,Ratchaburi,Ban Pong,353
+Damnoen Saduak Hospital,Ratchaburi,Damnoen Saduak,272
+Photharam Hospital,Ratchaburi,Photharam,340
+HRH Princess Sirindhorn Memorial Hospital Rayong (Map Taphut),Rayong,Mueang,176
+Klaeng Hospital,Rayong,Klaeng,200
+Aranyaprathet Hospital,Sa Kaeo,Aranyaprathet,260
+Sa Kaeo Crown Prince Hospital,Sa Kaeo,Mueang,466
+Sawang Daen Din Crown Prince Hospital,Sakon Nakhon,Sawang Daen Din,276
+Wanon Niwat Hospital,Sakon Nakhon,Wanon Niwat,264
+Bang Phli Hospital,Samut Prakan,Bang Phli,286
+Krathum Baen Hospital,Samut Sakhon,Krathum Baen,300
+Somdej Phra Phutthaloetla Hospital,Samut Songkhram,Mueang,282
+Phra Phutthabat Hospital,Saraburi,Phra Phutthabat,315
+Satun Hospital,Satun,Mueang,300
+In Buri Hospital,Sing Buri,In Buri,150
+Sing Buri Hospital,Sing Buri,Mueang,282
+Kantharalak Hospital,Sisaket,Kantharalak,283
+Songkhla Hospital,Songkhla,Mueang,508
+Srisangwon Sukhothai Hospital,Sukhothai,Si Samrong,307
+Sukhothai Hospital,Sukhothai,Mueang,320
+Somdejphrasangkharach XVII Hospital,Suphan Buri,Song Phi Nong,262
+Ko Samui Hospital,Surat Thani,Ko Samui,160
+Prasat Hospital,Surin,Prasat,265
+Sikhoraphum Hospital,Surin,Sikhoraphum,227
+Mae Sot Hospital,Tak,Mae Sot,420
+Somdejphrajaotaksin Maharaj Hospital,Tak,Mueang,329
+Trat Hospital,Trat,Mueang,395
+Det Udom Crown Prince Hospital,Ubon Ratchathani,Det Udom,363
+The 50th Anniversary Mahavajiralongkorn Hospital,Ubon Ratchathani,Mueang,258
+Trakan Phuet Phon Hospital,Ubon Ratchathani,Trakan Phuet Phon,176
+Warin Chamrap Hospital,Ubon Ratchathani,Warin Chamrap,264
+Kumphawapi Hospital,Udon Thani,Kumphawapi,280
+Uthai Thani Hospital,Uthai Thani,Mueang,365
+Betong Hospital,Yala,Betong,170
+Yasothon Hospital,Yasothon,Mueang,485
+Chanuman Hospital,Amnat Charoen,Chanuman,30
+Hua Taphan Hospital,Amnat Charoen,Hua Taphan,60
+Lue Amnat Hospital,Amnat Charoen,Lue Amnat,30
+Pathum Ratchawongsa Hospital,Amnat Charoen,Pathum Ratchawongsa,50
+Phana Hospital,Amnat Charoen,Phana,30
+Senangkhanikhom Hospital,Amnat Charoen,Senangkhanikhom,30
+Chaiyo Hospital,Ang Thong,Chaiyo,52
+Pa Mok Hospital,Ang Thong,Pa Mok,54
+Pho Thong Hospital,Ang Thong,Pho Thong,60
+Sam Ko Hospital,Ang Thong,Sam Ko,36
+Sawaeng Ha Hospital,Ang Thong,Sawaeng Ha,48
+Wiset Chai Chan Hospital,Ang Thong,Wiset Chai Chan,97
+Bueng Khong Long Hospital,Bueng Kan,Bueng Khong Long,45
+Bung Khla Hospital,Bueng Kan,Bung Khla,32
+Pak Khat Hospital,Bueng Kan,Pak Khat,41
+Phon Charoen Hospital,Bueng Kan,Phon Charoen,37
+Seka Hospital,Bueng Kan,Seka,125
+Si Wilai Hospital,Bueng Kan,Si Wilai,38
+So Phisai Hospital,Bueng Kan,So Phisai,73
+Ban Dan Hospital,Buriram,Ban Dan,63
+Ban Kruat Hospital,Buriram,Ban Kruat,63
+Ban Mai Chaiyaphot Hospital,Buriram,Ban Mai Chaiyaphot,30
+Chaloem Phrakiat Hospital,Buriram,Chaloem Phrakiat,38
+Chamni Hospital,Buriram,Chamni,40
+Huai Rat Hospital,Buriram,Huai Rat,44
+Khaen Dong Hospital,Buriram,Khaen Dong,31
+Khu Mueang Hospital,Buriram,Khu Mueang,90
+Krasang Hospital,Buriram,Krasang,68
+Lahan Sai Hospital,Buriram,Lahan Sai,123
+Lam Plai Mat Hospital,Buriram,Lam Plai Mat,152
+Na Pho Hospital,Buriram,Na Pho,35
+Non Din Daeng Hospital,Buriram,Non Din Daeng,36
+Non Suwan Hospital,Buriram,Non Suwan,30
+Nong Hong Hospital,Buriram,Nong Hong,40
+Nong Ki Hospital,Buriram,Nong Ki,66
+Pakham Hospital,Buriram,Pakham,44
+Phlapphla Chai Hospital,Buriram,Phlapphla Chai,46
+Phutthaisong Hospital,Buriram,Phutthaisong,67
+Prakhon Chai Hospital,Buriram,Prakhon Chai,170
+Satuek Hospital,Buriram,Satuek,135
+Ban Pho Hospital,Chachoengsao,Ban Pho,52
+Bang Khla Hospital,Chachoengsao,Bang Khla,52
+Bang Nam Priao Hospital,Chachoengsao,Bang Nam Priao,64
+Bang Pakong Hospital,Chachoengsao,Bang Pakong,90
+Khlong Khuean Hospital,Chachoengsao,Khlong Khuean,32
+Phanom Sarakham Hospital,Chachoengsao,Phanom Sarakham,163
+Plaeng Yao Hospital,Chachoengsao,Plaeng Yao,73
+Ratchasan Hospital,Chachoengsao,Ratchasan,13
+Sanam Chai Khet Hospital,Chachoengsao,Sanam Chai Khet,150
+Tha Takiap Hospital,Chachoengsao,Tha Takiap,45
+Han Kha Hospital,Chai Nat,Han Kha,30
+Manorom Hospital,Chai Nat,Manorom,30
+Noen Kham Hospital,Chai Nat,Noen Kham,0
+Nong Mamong Hospital,Chai Nat,Nong Mamong,10
+Sankhaburi Hospital,Chai Nat,Sankhaburi,60
+Sapphaya Hospital,Chai Nat,Sapphaya,30
+Wat Sing Hospital,Chai Nat,Wat Sing,30
+Bamnet Narong Hospital,Chaiyaphum,Bamnet Narong,64
+Ban Khwao Hospital,Chaiyaphum,Ban Khwao,36
+Ban Thaen Hospital,Chaiyaphum,Ban Thaen,30
+Chatturat Hospital,Chaiyaphum,Chatturat,90
+Kaeng Khro Hospital,Chaiyaphum,Kaeng Khro,120
+Kaset Sombun Hospital,Chaiyaphum,Kaset Sombun,67
+Khon San Hospital,Chaiyaphum,Khon San,62
+Khon Sawan Hospital,Chaiyaphum,Khon Sawan,49
+Noen Sa-nga Hospital,Chaiyaphum,Noen Sa-nga,40
+Nong Bua Daeng Hospital,Chaiyaphum,Nong Bua Daeng,120
+Nong Bua Rawe Hospital,Chaiyaphum,Nong Bua Rawe,40
+Phakdi Chumphon Hospital,Chaiyaphum,Phakdi Chumphon,44
+Sap Yai Hospital,Chaiyaphum,Sap Yai,30
+Thep Sathit Hospital,Chaiyaphum,Thep Sathit,38
+Kaeng Hang Maeo Hospital,Chanthaburi,Kaeng Hang Maeo,34
+Khao Khitchakut Hospital,Chanthaburi,Khao Khitchakut,40
+Khao Sukim Hospital,Chanthaburi,Khao Sukim,30
+Khlung Hospital,Chanthaburi,Khlung,39
+Laem Sing Hospital,Chanthaburi,Laem Sing,34
+Makham Hospital,Chanthaburi,Makham,42
+Na Yai Am Hospital,Chanthaburi,Na Yai Am,38
+Pong Nam Ron Hospital,Chanthaburi,Pong Nam Ron,69
+Soi Dao Hospital,Chanthaburi,Soi Dao,62
+Song Phi Nong Hospital,Chanthaburi,Song Phi Nong,32
+Tha Mai Hospital,Chanthaburi,Tha Mai,33
+Chai Prakan Hospital,Chiang Mai,Chai Prakan,45
+Chiang Dao Hospital,Chiang Mai,Chiang Dao,95
+Doi Lo Hospital,Chiang Mai,Doi Lo,31
+Doi Saket Hospital,Chiang Mai,Doi Saket,60
+Doi Tao Hospital,Chiang Mai,Doi Tao,30
+Hang Dong Hospital,Chiang Mai,Hang Dong,90
+Hot Hospital,Chiang Mai,Hot,79
+Mae Ai Hospital,Chiang Mai,Mae Ai,82
+Debaratana Vejjanukula Hospital,Chiang Mai,Mae Chaem,60
+Mae On Hospital,Chiang Mai,Mae On,30
+Mae Taeng Hospital,Chiang Mai,Mae Taeng,60
+Mae Tuen Hospital,Chiang Mai,Om Koi,19
+Mae Wang Hospital,Chiang Mai,Mae Wang,37
+Om Koi Hospital,Chiang Mai,Om Koi,64
+Phrao Hospital,Chiang Mai,Phrao,60
+Samoeng Hospital,Chiang Mai,Samoeng,37
+San Kamphaeng Hospital,Chiang Mai,San Kamphaeng,50
+Saraphi Hospital,Chiang Mai,Saraphi,71
+Wat Chan Chaloem Phrakiat Hospital,Chiang Mai,Galyani Vadhana,25
+Wiang Haeng Hospital,Chiang Mai,Wiang Haeng,30
+Chiang Khong Crown Prince Hospital,Chiang Rai,Chiang Khong,72
+Chiang Saen Hospital,Chiang Rai,Chiang Saen,58
+Doi Luang Hospital,Chiang Rai,Doi Luang,0
+Khun Tan Hospital,Chiang Rai,Khun Tan,34
+Mae Chan Hospital,Chiang Rai,Mae Chan,152
+Mae Fa Luang Hospital,Chiang Rai,Mae Fa Luang,30
+Mae Lao Hospital,Chiang Rai,Mae Lao,30
+Mae Suai Hospital,Chiang Rai,Mae Suai,60
+Pa Daed Hospital,Chiang Rai,Pa Daed,30
+Phan Hospital,Chiang Rai,Phan,175
+Phaya Mengrai Hospital,Chiang Rai,Phaya Mengrai,60
+Somdet Phra Yanasangwon Hospital,Chiang Rai,Wiang Chai,30
+Thoeng Hospital,Chiang Rai,Thoeng,90
+Wiang Chiang Rung Hospital,Chiang Rai,Wiang Chiang Rung,30
+Wiang Kaen Hospital,Chiang Rai,Wiang Kaen,34
+Wiang Pa Pao Hospital,Chiang Rai,Wiang Pa Pao,81
+Ban Bueng Hospital,Chonburi,Ban Bueng,170
+Bo Thong Hospital,Chonburi,Bo Thong,70
+Ko Chan Hospital,Chonburi,Ko Chan,30
+Ko Sichang Hospital,Chonburi,Ko Sichang,15
+Laem Chabang Hospital,Chonburi,Si Racha,187
+Nong Yai Hospital,Chonburi,Nong Yai,35
+Phan Thong Hospital,Chonburi,Phan Thong,90
+Sattahip K.M. 10 Hospital,Chonburi,Sattahip,66
+Wat Yansangwararam Hospital,Chonburi,Bang Lamung,31
+Lamae Hospital,Chumphon,Lamae,30
+Lang Suan Hospital,Chumphon,Lang Suan,182
+Map Ammarit Hospital,Chumphon,Map Ammarit,30
+Pak Nam Chumphon Hospital,Chumphon,Mueang,10
+Pak Nam Lang Suan Hospital,Chumphon,Lang Suan,12
+Pathio Hospital,Chumphon,Pathio,47
+Phato Hospital,Chumphon,Phato,30
+Sawi Hospital,Chumphon,Sawi,66
+Tha Sae Hospital,Chumphon,Tha Sae,75
+Thung Tako Hospital,Chumphon,Thung Tako,30
+Don Chan Hospital,Kalasin,Don Chan,14
+Huai Mek Hospital,Kalasin,Huai Mek,58
+Huai Phueng Hospital,Kalasin,Huai Phueng,34
+Kamalasai Hospital,Kalasin,Kamalasai,143
+Kham Muang Hospital,Kalasin,Kham Muang,81
+Khao Wong Hospital,Kalasin,Khao Wong,88
+Khong Chai Hospital,Kalasin,Khong Chai,30
+Kuchinarai Crown Prince Hospital,Kalasin,Kuchinarai,177
+Na Khu Hospital,Kalasin,Na Khu,41
+Na Mon Hospital,Kalasin,Na Mon,37
+Nong Kung Si Hospital,Kalasin,Nong Kung Si,80
+Rong Kham Hospital,Kalasin,Rong Kham,30
+Sahatsakhan Hospital,Kalasin,Sahatsakhan,40
+Sam Chai Hospital,Kalasin,Sam Chai,30
+Somdet Hospital,Kalasin,Somdet,114
+Tha Khantho Hospital,Kalasin,Tha Khantho,60
+Yang Talat Hospital,Kalasin,Yang Talat,162
+Bueng Samakkhi Hospital,Kamphaeng Phet,Bueng Samakkhi,30
+Khanu Woralaksaburi Hospital,Kamphaeng Phet,Khanu Woralaksaburi,90
+Khlong Khlung Hospital,Kamphaeng Phet,Khlong Khlung,90
+Khlong Lan Hospital,Kamphaeng Phet,Khlong Lan,60
+Kosamphi Nakhon Hospital,Kamphaeng Phet,Kosamphi Nakhon,10
+Lan Krabue Hospital,Kamphaeng Phet,Lan Krabue,30
+Pang Sila Thong Hospital,Kamphaeng Phet,Pang Sila Thong,30
+Phran Kratai Hospital,Kamphaeng Phet,Phran Kratai,66
+Sai Ngam Hospital,Kamphaeng Phet,Sai Ngam,30
+Sai Thong Watthana Hospital,Kamphaeng Phet,Sai Thong Watthana,30
+Thung Pho Thale Hospital,Kamphaeng Phet,Thung Pho Thale,10
+Bo Phloi Hospital,Kanchanaburi,Bo Phloi,60
+Chao Khun Phaibun Phanom Thuan Hospital,Kanchanaburi,Phanom Thuan,59
+Dan Makham Tia Hospital,Kanchanaburi,Dan Makham Tia,56
+Huai Krachao Chaloem Phrakiat Hospital,Kanchanaburi,Huai Krachao,30
+Lao Khwan Hospital,Kanchanaburi,Lao Khwan,54
+Nong Prue Hospital,Kanchanaburi,Nong Prue,30
+Phayaban Sathan Phra Barami Hospital,Kanchanaburi,Nong Prue,30
+Sai Yok Hospital,Kanchanaburi,Sai Yok,58
+Sangkhla Buri Hospital,Kanchanaburi,Sangkhla Buri,61
+Somdejprasangkharach XIX Hospital,Kanchanaburi,Tha Muang,141
+Somdet Phra Piya Maharat Rommaniyakhet Hospital,Kanchanaburi,Sai Yok,30
+Suk Siri Si Sawat Hospital,Kanchanaburi,Si Sawat,10
+Tha Kradan Hospital,Kanchanaburi,Si Sawat,32
+Thong Pha Phum Hospital,Kanchanaburi,Thong Pha Phum,95
+Ban Fang Hospital,Khon Kaen,Ban Fang,30
+Ban Phai Hospital,Khon Kaen,Ban Phai,142
+Chonnabot Hospital,Khon Kaen,Chonnabot,35
+Khao Suan Kwang Hospital,Khon Kaen,Khao Suan Kwang,45
+Khok Pho Chai Hospital,Khon Kaen,Khok Pho Chai,0
+Kranuan Crown Prince Hospital,Khon Kaen,Kranuan,150
+Mancha Khiri Hospital,Khon Kaen,Mancha Khiri,65
+Nam Phong Hospital,Khon Kaen,Nam Phong,120
+Non Sila Hospital,Khon Kaen,Non Sila,30
+Nong Na Kham Hospital,Khon Kaen,Nong Na Kham,0
+Nong Ruea Hospital,Khon Kaen,Nong Ruea,90
+Nong Song Hong Hospital,Khon Kaen,Nong Song Hong,69
+Phon Hospital,Khon Kaen,Phon,117
+Phra Yuen Hospital,Khon Kaen,Phra Yuen,34
+Phu Pha Man Hospital,Khon Kaen,Phu Pha Man,30
+Phu Wiang Hospital,Khon Kaen,Phu Wiang,60
+Poei Noi Hospital,Khon Kaen,Poei Noi,30
+Sam Sung Hospital,Khon Kaen,Sam Sung,30
+Si Chomphu Hospital,Khon Kaen,Si Chomphu,78
+Ubolratana Hospital,Khon Kaen,Ubolratana,60
+Waeng Noi Hospital,Khon Kaen,Waeng Noi,34
+Waeng Yai Hospital,Khon Kaen,Waeng Yai,36
+Wiang Kao Hospital,Khon Kaen,Wiang Kao,0
+Ao Luek Hospital,Krabi,Ao Luek,85
+Khao Phanom Hospital,Krabi,Khao Phanom,52
+Khlong Thom Hospital,Krabi,Khlong Thom,71
+Ko Lanta Hospital,Krabi,Ko Lanta,40
+Ko Phi Phi Hospital,Krabi,Mueang,7
+Lam Thap Hospital,Krabi,Lam Thap,36
+Nuea Khlong Hospital,Krabi,Nuea Khlong,64
+Plai Phraya Hospital,Krabi,Plai Phraya,53
+Chae Hom Hospital,Lampang,Chae Hom,32
+Hang Chat Hospital,Lampang,Hang Chat,30
+Ko Kha Hospital,Lampang,Ko Kha,152
+Mae Mo Hospital,Lampang,Mae Mo,30
+Mae Phrik Hospital,Lampang,Mae Phrik,16
+Mae Tha Hospital,Lampang,Mae Tha,33
+Mueang Pan Hospital,Lampang,Mueang Pan,30
+Ngao Hospital,Lampang,Ngao,40
+Soem Ngam Hospital,Lampang,Soem Ngam,30
+Sop Prap Hospital,Lampang,Sop Prap,30
+Thoen Hospital,Lampang,Thoen,87
+Wang Nuea Hospital,Lampang,Wang Nuea,30
+Ban Hong Hospital,Lamphun,Ban Hong,30
+Ban Thi Hospital,Lamphun,Ban Thi,30
+Li Hospital,Lamphun,Li,74
+Mae Tha Hospital,Lamphun,Mae Tha,30
+Pa Sang Hospital,Lamphun,Pa Sang,75
+Thung Hua Chang Hospital,Lamphun,Thung Hua Chang,30
+Wiang Nong Long Hospital,Lamphun,Wiang Nong Long,16
+Chiang Khan Hospital,Loei,Chiang Khan,59
+Dan Sai Crown Prince Hospital,Loei,Dan Sai,60
+Erawan Hospital,Loei,Erawan,32
+Na Duang Hospital,Loei,Na Duang,30
+Na Haeo Hospital,Loei,Na Haeo,20
+Nong Hin Hospital,Loei,Nong Hin,30
+Pak Chom Hospital,Loei,Pak Chom,34
+Pha Khao Hospital,Loei,Pha Khao,40
+Phu Kradueng Hospital,Loei,Phu Kradueng,32
+Phu Luang Hospital,Loei,Phu Luang,40
+Phu Ruea Hospital,Loei,Phu Ruea,30
+Tha Li Hospital,Loei,Tha Li,35
+Wang Saphung Hospital,Loei,Wang Saphung,120
+Chai Badan Hospital,Lopburi,Chai Badan,140
+Khok Charoen Hospital,Lopburi,Khok Charoen,30
+Khok Samrong Hospital,Lopburi,Khok Samrong,120
+Lam Sonthi Hospital,Lopburi,Lam Sonthi,37
+Nong Muang Hospital,Lopburi,Nong Muang,35
+Phatthana Nikhom Hospital,Lopburi,Phatthana Nikhom,66
+Sa Bot Hospital,Lopburi,Sa Bot,30
+Tha Luang Hospital,Lopburi,Tha Luang,38
+Tha Wung Hospital,Lopburi,Tha Wung,52
+Khun Yuam Hospital,Mae Hong Son,Khun Yuam,35
+Mae La Noi Hospital,Mae Hong Son,Mae La Noi,34
+Mae Sariang Hospital,Mae Hong Son,Mae Sariang,115
+Pai Hospital,Mae Hong Son,Pai,58
+Pang Mapha Hospital,Mae Hong Son,Pang Mapha,29
+Sop Moei Hospital,Mae Hong Son,Sop Moei,30
+Borabue Hospital,Maha Sarakham,Borabue,165
+Chiang Yuen Hospital,Maha Sarakham,Chiang Yuen,60
+Chuen Chom Hospital,Maha Sarakham,Chuen Chom,30
+Kae Dam Hospital,Maha Sarakham,Kae Dam,30
+Kantharawichai Hospital,Maha Sarakham,Kantharawichai,60
+Kosum Phisai Hospital,Maha Sarakham,Kosum Phisai,120
+Kut Rang Hospital,Maha Sarakham,Kut Rang,30
+Na Chueak Hospital,Maha Sarakham,Na Chueak,68
+Na Dun Hospital,Maha Sarakham,Na Dun,30
+Phayakkhaphum Phisai Hospital,Maha Sarakham,Phayakkhaphum Phisai,111
+Wapi Pathum Hospital,Maha Sarakham,Wapi Pathum,120
+Yang Si Surat Hospital,Maha Sarakham,Yang Si Surat,30
+Don Tan Hospital,Mukdahan,Don Tan,30
+Dong Luang Hospital,Mukdahan,Dong Luang,30
+Khamcha-i Hospital,Mukdahan,Khamcha-i,30
+Nikhom Kham Soi Hospital,Mukdahan,Nikhom Kham Soi,30
+Nong Sung Hospital,Mukdahan,Nong Sung,30
+Wan Yai Hospital,Mukdahan,Wan Yai,30
+Ban Na Hospital,Nakhon Nayok,Ban Na,70
+Ongkharak Hospital,Nakhon Nayok,Ongkharak,31
+Pak Phli Hospital,Nakhon Nayok,Pak Phli,10
+Bang Len Hospital,Nakhon Pathom,Bang Len,79
+Don Tum Hospital,Nakhon Pathom,Don Tum,38
+Huai Phlu Hospital,Nakhon Pathom,Nakhon Chai Si,60
+Kamphaeng Saen Hospital,Nakhon Pathom,Kamphaeng Saen,120
+Luang Pho Poen Hospital,Nakhon Pathom,Nakhon Chai Si,32
+Nakhon Chai Si Hospital,Nakhon Pathom,Nakhon Chai Si,60
+Phutthamonthon Hospital,Nakhon Pathom,Phutthamonthon,34
+Sam Phran Hospital,Nakhon Pathom,Sam Phran,136
+Ban Phaeng Hospital,Nakhon Phanom,Ban Phaeng,43
+Na Kae Hospital,Nakhon Phanom,Na Kae,61
+Na Thom Hospital,Nakhon Phanom,Na Thom,36
+Na Wa Hospital,Nakhon Phanom,Na Wa,48
+Phon Sawan Hospital,Nakhon Phanom,Phon Sawan,50
+Pla Pak Hospital,Nakhon Phanom,Pla Pak,30
+Renu Nakhon Hospital,Nakhon Phanom,Renu Nakhon,30
+Si Songkhram Hospital,Nakhon Phanom,Si Songkhram,90
+Tha Uthen Hospital,Nakhon Phanom,Tha Uthen,40
+That Phanom Crown Prince Hospital,Nakhon Phanom,That Phanom,234
+Wang Yang Hospital,Nakhon Phanom,Wang Yang,20
+Ban Lueam Hospital,Nakhon Ratchasima,Ban Lueam,35
+Bua Lai Hospital,Nakhon Ratchasima,Bua Lai,10
+Bua Yai Hospital,Nakhon Ratchasima,Bua Yai,200
+Chakkarat Hospital,Nakhon Ratchasima,Chakkarat,90
+Chaloem Phra Kiat Hospital,Nakhon Ratchasima,Chaloem Phra Kiat,36
+Chok Chai Hospital,Nakhon Ratchasima,Chok Chai,91
+Chum Phuang Hospital,Nakhon Ratchasima,Chum Phuang,70
+Dan Khun Thot Hospital,Nakhon Ratchasima,Dan Khun Thot,120
+Huai Thalaeng Hospital,Nakhon Ratchasima,Huai Thalaeng,60
+Kaeng Sanam Nang Hospital,Nakhon Ratchasima,Kaeng Sanam Nang,35
+Kham Sakae Saeng Hospital,Nakhon Ratchasima,Kham Sakae Saeng,60
+Kham Thale So Hospital,Nakhon Ratchasima,Kham Thale So,36
+Khon Buri Hospital,Nakhon Ratchasima,Khon Buri,156
+Khong Hospital,Nakhon Ratchasima,Khong,60
+Lam Thamen Chai Hospital,Nakhon Ratchasima,Lam Thamen Chai,30
+Luang Pho Khun Parisuddho Hospital,Nakhon Ratchasima,Dan Khun Thot,114
+HRH The Princess Mother Centenary Hospital Mueang Yang,Nakhon Ratchasima,Mueang Yang,30
+Makutkiriwan Hospital,Nakhon Ratchasima,Pak Chong,13
+Non Daeng Hospital,Nakhon Ratchasima,Non Daeng,30
+Non Sung Hospital,Nakhon Ratchasima,Non Sung,86
+Non Thai Hospital,Nakhon Ratchasima,Non Thai,75
+Nong Bun Mak Hospital,Nakhon Ratchasima,Nong Bun Mak,63
+Pak Thong Chai Hospital,Nakhon Ratchasima,Pak Thong Chai,115
+Phra Thong Kham Chaloem Phrakiat Hospital,Nakhon Ratchasima,Phra Thong Kham,30
+Prathai Hospital,Nakhon Ratchasima,Prathai,72
+Sida Hospital,Nakhon Ratchasima,Sida,24
+Sikhio Hospital,Nakhon Ratchasima,Sikhio,145
+Soeng Sang Hospital,Nakhon Ratchasima,Soeng Sang,60
+Sung Noen Hospital,Nakhon Ratchasima,Sung Noen,117
+Thepharak Hospital,Nakhon Ratchasima,Thepharak,30
+Wang Nam Khiao Hospital,Nakhon Ratchasima,Wang Nam Khiao,51
+Banphot Phisai Hospital,Nakhon Sawan,Banphot Phisai,90
+Chum Saeng Hospital,Nakhon Sawan,Chum Saeng,60
+Chum Ta Bong Hospital,Nakhon Sawan,Chum Ta Bong,5
+Kao Liao Hospital,Nakhon Sawan,Kao Liao,34
+Krok Phra Hospital,Nakhon Sawan,Krok Phra,30
+Lat Yao Hospital,Nakhon Sawan,Lat Yao,90
+Mae Poen Hospital,Nakhon Sawan,Mae Poen,0
+Mae Wong Hospital,Nakhon Sawan,Mae Wong,30
+Nong Bua Hospital,Nakhon Sawan,Nong Bua,63
+Phaisali Hospital,Nakhon Sawan,Phaisali,63
+Phayuha Khiri Hospital,Nakhon Sawan,Phayuha Khiri,42
+Tak Fa Hospital,Nakhon Sawan,Tak Fa,30
+Takhli Hospital,Nakhon Sawan,Takhli,90
+Tha Tako Hospital,Nakhon Sawan,Tha Tako,60
+Bang Khan Hospital,Nakhon Si Thammarat,Bang Khan,38
+Chaloem Phra Kiat Hospital,Nakhon Si Thammarat,Chaloem Phra Kiat,39
+Cha-uat Hospital,Nakhon Si Thammarat,Cha-uat,90
+Chawang Crown Prince Hospital,Nakhon Si Thammarat,Chawang,143
+Chian Yai Hospital,Nakhon Si Thammarat,Chian Yai,54
+Chulabhorn Hospital,Nakhon Si Thammarat,Chulabhorn,32
+Hua Sai Hospital,Nakhon Si Thammarat,Hua Sai,60
+Khanom Hospital,Nakhon Si Thammarat,Khanom,66
+Lan Saka Hospital,Nakhon Si Thammarat,Lan Saka,52
+Na Bon Hospital,Nakhon Si Thammarat,Na Bon,30
+Nopphitam Hospital,Nakhon Si Thammarat,Nopphitam,3
+Pak Phanang Hospital,Nakhon Si Thammarat,Pak Phanang,105
+Phipun Hospital,Nakhon Si Thammarat,Phipun,33
+Porthan Khlai Vajasit Hospital,Nakhon Si Thammarat,Chang Klang,31
+Phra Phrom Hospital,Nakhon Si Thammarat,Phra Phrom,60
+Phrom Khiri Hospital,Nakhon Si Thammarat,Phrom Khiri,30
+Ron Phibun Hospital,Nakhon Si Thammarat,Ron Phibun,83
+Tham Phannara Hospital,Nakhon Si Thammarat,Tham Phannara,26
+Thung Yai Hospital,Nakhon Si Thammarat,Thung Yai,75
+Ban Luang Hospital,Nan,Ban Luang,33
+Bo Kluea Hospital,Nan,Bo Kluea,20
+Chaloem Phrakiat Hospital,Nan,Chaloem Phrakiat,34
+Chiang Klang Hospital,Nan,Chiang Klang,28
+Mae Charim Hospital,Nan,Mae Charim,20
+Na Muen Hospital,Nan,Na Muen,20
+Na Noi Hospital,Nan,Na Noi,69
+Phu Phiang Hospital,Nan,Phu Phiang,20
+Pua Crown Prince Hospital,Nan,Pua,120
+Santisuk Hospital,Nan,Santisuk,24
+Song Khwae Hospital,Nan,Song Khwae,15
+Tha Wang Pha Hospital,Nan,Tha Wang Pha,45
+Thung Chang Hospital,Nan,Thung Chang,30
+Wiang Sa Hospital,Nan,Wiang Sa,78
+Bacho Hospital,Narathiwat,Bacho,68
+Chanae Hospital,Narathiwat,Chanae,60
+Cho Ai Rong Hospital,Narathiwat,Cho Ai Rong,30
+Ra-ngae Hospital,Narathiwat,Ra-ngae,134
+Rueso Hospital,Narathiwat,Rueso,82
+Si Sakhon Hospital,Narathiwat,Si Sakhon,54
+Sukhirin Hospital,Narathiwat,Sukhirin,35
+Su-ngai Padi Hospital,Narathiwat,Su-ngai Padi,41
+Tak Bai Hospital,Narathiwat,Tak Bai,100
+Waeng Hospital,Narathiwat,Waeng,60
+Yi-ngo Chaloem Phrakiat Hospital,Narathiwat,Yi-ngo,60
+Na Klang Hospital,Nong Bua Lamphu,Na Klang,60
+Na Wang Chaloem Phrakiat Hospital,Nong Bua Lamphu,Na Wang,30
+Non Sang Hospital,Nong Bua Lamphu,Non Sang,40
+Si Bun Rueang Hospital,Nong Bua Lamphu,Si Bun Rueang,90
+Suwannakhuha Hospital,Nong Bua Lamphu,Suwannakhuha,40
+Fao Rai Hospital,Nong Khai,Fao Rai,30
+Phon Phisai Hospital,Nong Khai,Phon Phisai,129
+Pho Tak Hospital,Nong Khai,Pho Tak,15
+Rattanawapi Hospital,Nong Khai,Rattanawapi,30
+Sa Khrai Hospital,Nong Khai,Sa Khrai,30
+Sangkhom Hospital,Nong Khai,Sangkhom,30
+Si Chiang Mai Hospital,Nong Khai,Si Chiang Mai,30
+Bang Bua Thong Hospital,Nonthaburi,Bang Bua Thong,102
+Bang Kruai Hospital,Nonthaburi,Bang Kruai,60
+Nonthaburi Medical Center,Nonthaburi,Bang Kruai,30
+Bang Yai Hospital,Nonthaburi,Bang Yai,104
+Pak Kret Hospital,Nonthaburi,Pak Kret,87
+Phimon Rat Hospital,Nonthaburi,Bang Bua Thong,30
+Sai Noi Hospital,Nonthaburi,Sai Noi,60
+Khlong Luang Hospital,Pathum Thani,Khlong Luang,62
+Lam Luk Ka Hospital,Pathum Thani,Lam Luk Ka,46
+Lat Lum Kaeo Hospital,Pathum Thani,Lat Lum Kaeo,48
+Nong Suea Hospital,Pathum Thani,Nong Suea,35
+Prachathipat Hospital,Pathum Thani,Thanyaburi,37
+Sam Khok Hospital,Pathum Thani,Sam Khok,36
+Thanyaburi Hospital,Pathum Thani,Thanyaburi,120
+Kapho Hospital,Pattani,Kapho,37
+Khok Pho Hospital,Pattani,Khok Pho,104
+Mae Lan Hospital,Pattani,Mae Lan,34
+Mai Kaen Hospital,Pattani,Mai Kaen,34
+Mayo Hospital,Pattani,Mayo,42
+Nong Chik Hospital,Pattani,Nong Chik,30
+Panare Hospital,Pattani,Panare,30
+Sai Buri Crown Prince Hospital,Pattani,Sai Buri,135
+Thung Yang Daeng Hospital,Pattani,Thung Yang Daeng,30
+Yarang Hospital,Pattani,Yarang,64
+Yaring Hospital,Pattani,Yaring,69
+Bang Sai - Takua Pa Hospital,Phang Nga,Takua Pa,0
+Kapong Chaiphat Hospital,Phang Nga,Kapong,32
+Khura Buri Chaiphat Hospital,Phang Nga,Khura Buri,33
+Ko Yao Chaiphat Hospital,Phang Nga,Ko Yao,30
+Takua Thung Hospital,Phang Nga,Takua Thung,36
+Thai Mueang Chaiphat Hospital,Phang Nga,Thai Mueang,33
+Thap Put Hospital,Phang Nga,Thap Put,39
+Bang Kaeo Hospital,Phatthalung,Bang Kaeo,30
+Khao Chai Son Hospital,Phatthalung,Khao Chai Son,30
+Khuan Khanun Hospital,Phatthalung,Khuan Khanun,90
+Kong Ra Hospital,Phatthalung,Kong Ra,35
+Pa Bon Hospital,Phatthalung,Pa Bon,30
+Pa Phayom Hospital,Phatthalung,Pa Phayom,45
+Pak Phayun Hospital,Phatthalung,Pak Phayun,30
+Si Banphot Hospital,Phatthalung,Si Banphot,30
+Srinagarindra (Panyananthaphikkhu) Hospital,Phatthalung,Srinagarindra,30
+Tamot Hospital,Phatthalung,Tamot,31
+Chiang Muan Hospital,Phayao,Chiang Muan,36
+Chun Hospital,Phayao,Chun,52
+Dok Kham Tai Hospital,Phayao,Dok Kham Tai,60
+Mae Chai Hospital,Phayao,Mae Chai,30
+Phu Kamyao Hospital,Phayao,Phu Kamyao,0
+Phu Sang Hospital,Phayao,Phu Sang,0
+Pong Hospital,Phayao,Pong,33
+Bueng Sam Phan Hospital,Phetchabun,Bueng Sam Phan,90
+Chon Daen Hospital,Phetchabun,Chon Daen,60
+Khao Kho Hospital,Phetchabun,Khao Kho,30
+Lom Kao Crown Prince Hospital,Phetchabun,Lom Kao,100
+Nam Nao Hospital,Phetchabun,Nam Nao,10
+Nong Phai Hospital,Phetchabun,Nong Phai,142
+Si Thep Hospital,Phetchabun,Si Thep,57
+Wang Pong Hospital,Phetchabun,Wang Pong,30
+Ban Laem Hospital,Phetchaburi,Ban Laem,37
+Ban Lat Hospital,Phetchaburi,Ban Lat,32
+Cha-am Hospital,Phetchaburi,Cha-am,90
+Kaeng Krachan Hospital,Phetchaburi,Kaeng Krachan,66
+Khao Yoi Hospital,Phetchaburi,Khao Yoi,33
+Nong Ya Plong Hospital,Phetchaburi,Nong Ya Plong,30
+Tha Yang Hospital,Phetchaburi,Tha Yang,78
+Bang Mun Nak Hospital,Phichit,Bang Mun Nak,90
+Bueng Na Rang Hospital,Phichit,Bueng Na Rang,24
+Dong Charoen Hospital,Phichit,Dong Charoen,22
+Pho Prathap Chang Hospital,Phichit,Pho Prathap Chang,30
+Pho Thale Hospital,Phichit,Pho Thale,45
+Sak Lek Hospital,Phichit,Sak Lek,19
+Sam Ngam Hospital,Phichit,Sam Ngam,30
+Taphan Hin Crown Prince Hospital,Phichit,Taphan Hin,90
+Thap Khlo Hospital,Phichit,Thap Khlo,28
+Wachirabarami Hospital,Phichit,Wachirabarami,30
+Wang Sai Phun Hospital,Phichit,Wang Sai Phun,30
+Bang Krathum Hospital,Phitsanulok,Bang Krathum,30
+Bang Rakam Hospital,Phitsanulok,Bang Rakam,69
+Chat Trakan Hospital,Phitsanulok,Chat Trakan,30
+Nakhon Thai Crown Prince Hospital,Phitsanulok,Nakhon Thai,118
+Noen Maprang Hospital,Phitsanulok,Noen Maprang,33
+Phrom Phiram Hospital,Phitsanulok,Phrom Phiram,50
+Wang Thong Hospital,Phitsanulok,Wang Thong,68
+Wat Bot Hospital,Phitsanulok,Wat Bot,30
+Den Chai Crown Prince Hospital,Phrae,Den Chai,38
+Long Hospital,Phrae,Long,39
+Nong Muang Khai Hospital,Phrae,Nong Muang Khai,32
+Rong Kwang Hospital,Phrae,Rong Kwang,41
+Song Hospital,Phrae,Song,55
+Sung Men Hospital,Phrae,Sung Men,64
+Wang Chin Hospital,Phrae,Wang Chin,36
+Ban Phraek Hospital,Phra Nakhon Si Ayutthaya,Ban Phraek,10
+Bang Ban Hospital,Phra Nakhon Si Ayutthaya,Bang Ban,26
+Bang Pahan Hospital,Phra Nakhon Si Ayutthaya,Bang Pahan,35
+Bang Pa-in Hospital,Phra Nakhon Si Ayutthaya,Bang Pa-in,96
+Bang Sai Hospital,Phra Nakhon Si Ayutthaya,Bang Sai (1404),39
+Bang Sai Hospital,Phra Nakhon Si Ayutthaya,Bang Sai (1413),10
+Lat Bua Luang Hospital,Phra Nakhon Si Ayutthaya,Lat Bua Luang,34
+Maha Rat Hospital,Phra Nakhon Si Ayutthaya,Maha Rat,22
+Phachi Hospital,Phra Nakhon Si Ayutthaya,Phachi,40
+Phak Hai Hospital,Phra Nakhon Si Ayutthaya,Phak Hai,31
+Somdet Phra Sangkharat Wassanamahatayra Hospital,Phra Nakhon Si Ayutthaya,Nakhon Luang,45
+Tha Ruea Hospital,Phra Nakhon Si Ayutthaya,Tha Ruea,32
+Uthai Hospital,Phra Nakhon Si Ayutthaya,Uthai,38
+Wang Noi Hospital,Phra Nakhon Si Ayutthaya,Wang Noi,68
+Chalong Hospital,Phuket,Mueang,48
+Patong Hospital,Phuket,Kathu,88
+Thalang Hospital,Phuket,Thalang,90
+Ban Sang Hospital,Prachinburi,Ban Sang,30
+Na Di Hospital,Prachinburi,Na Di,60
+Prachantakham Hospital,Prachinburi,Prachantakham,33
+Si Maha Phot Hospital,Prachinburi,Si Maha Phot,66
+Si Mahosot Hospital,Prachinburi,Si Mahosot,30
+Bang Saphan Noi Hospital,Prachuap Khiri Khan,Bang Saphan Noi,30
+Kui Buri Hospital,Prachuap Khiri Khan,Kui Buri,30
+Pran Buri Hospital,Prachuap Khiri Khan,Pran Buri,60
+Sam Roi Yot Hospital,Prachuap Khiri Khan,Sam Roi Yot,90
+Thap Sakae Hospital,Prachuap Khiri Khan,Thap Sakae,60
+Kapoe Hospital,Ranong,Kapoe,35
+Kra Buri Hospital,Ranong,Kra Buri,30
+La-un Hospital,Ranong,La-un,16
+Suk Samran Hospital,Ranong,Suk Samran,10
+Ban Kha Hospital,Ratchaburi,Ban Kha,30
+Bang Phae Hospital,Ratchaburi,Bang Phae,48
+Chet Samian Hospital,Ratchaburi,Photharam,30
+Chom Bueng Crown Prince Hospital,Ratchaburi,Chom Bueng,60
+Pak Tho Hospital,Ratchaburi,Pak Tho,60
+Suan Phueng Hospital,Ratchaburi,Suan Phueng,60
+Wat Phleng Hospital,Ratchaburi,Wat Phleng,38
+Ban Chang Hospital,Rayong,Ban Chang,75
+Ban Khai Hospital,Rayong,Ban Khai,48
+Khao Chamao Chaloem Phrakiat Hospital,Rayong,Khao Chamao,30
+Nikhom Phatthana Hospital,Rayong,Nikhom Phattana,30
+Pluak Daeng Hospital,Rayong,Pluak Daeng,76
+Wang Chan Hospital,Rayong,Wang Chan,43
+At Samat Hospital,Roi Et,At Samat,39
+Changhan Hospital,Roi Et,Changhan,35
+Chaturaphak Phiman Hospital,Roi Et,Chaturaphak Phiman,65
+Chiang Khwan Hospital,Roi Et,Chiang Khwan,0
+Kaset Wisai Hospital,Roi Et,Kaset Wisai,165
+Moei Wadi Hospital,Roi Et,Moei Wadi,30
+Mueang Suang Hospital,Roi Et,Mueang Suang,33
+Nong Hi Hospital,Roi Et,Nong Hi,28
+Nong Phok Hospital,Roi Et,Nong Phok,30
+Pathum Rat Hospital,Roi Et,Pathum Rat,36
+Phanom Phrai Hospital,Roi Et,Phanom Phrai,42
+Pho Chai Hospital,Roi Et,Pho Chai,30
+Phon Sai Hospital,Roi Et,Phon Sai,31
+Phon Thong Hospital,Roi Et,Phon Thong,213
+Selaphum Hospital,Roi Et,Selaphum,112
+Si Somdet Hospital,Roi Et,Si Somdet,37
+Suwannaphum Hospital,Roi Et,Suwannaphum,181
+Thawat Buri Hospital,Roi Et,Thawat Buri,38
+Thung Khao Luang Hospital,Roi Et,Thung Khao Luang,10
+Khao Chakan Hospital,Sa Kaeo,Khao Chakan,50
+Khlong Hat Hospital,Sa Kaeo,Khlong Hat,38
+Khok Sung Hospital,Sa Kaeo,Khok Sung,30
+Ta Phraya Hospital,Sa Kaeo,Ta Phraya,53
+Wang Nam Yen Hospital,Sa Kaeo,Wang Nam Yen,76
+Wang Sombun Hospital,Sa Kaeo,Wang Sombun,34
+Watthana Nakhon Hospital,Sa Kaeo,Watthana Nakhon,75
+Akat Amnuai Hospital,Sakon Nakhon,Akat Amnuai,82
+Ban Muang Hospital,Sakon Nakhon,Ban Muang,82
+Charoen Sin Hospital,Sakon Nakhon,Charoen Sin,40
+Kham Ta Kla Hospital,Sakon Nakhon,Kham Ta Kla,40
+Khok Si Suphan Hospital,Sakon Nakhon,Khok Si Suphan,42
+Kusuman Hospital,Sakon Nakhon,Kusuman,40
+Kut Bak Hospital,Sakon Nakhon,Kut Bak,39
+Nikhom Nam Un Hospital,Sakon Nakhon,Nikhom Nam Un,15
+Phang Khon Hospital,Sakon Nakhon,Phang Khon,107
+Phon Na Kaeo Hospital,Sakon Nakhon,Phon Na Kaeo,34
+Phra Achan Ban Thanakaro Hospital,Sakon Nakhon,Phu Phan,40
+Phra Achan Fan Acharo Hospital,Sakon Nakhon,Phanna Nikhom,90
+Song Dao Hospital,Sakon Nakhon,Song Dao,38
+Tao Ngoi Hospital,Sakon Nakhon,Tao Ngoi,35
+Warichaphum Hospital,Sakon Nakhon,Warichaphum,43
+Bang Bo Hospital,Samut Prakan,Bang Bo,191
+Bang Chak Hospital,Samut Prakan,Phra Pradaeng,104
+Bang Sao Thong Hospital,Samut Prakan,Bang Sao Thong,20
+Phra Samut Chedi Sawatayanon Hospital,Samut Prakan,Phra Samut Chedi,52
+Tha Chalom City (Samut Sakhon 3) Hospital,Samut Sakhon,Mueang,74
+Wat Bang Pla (Samut Sakhon 4) Hospital,Samut Sakhon,Mueang,74
+Wat Ketmadeesriwararam (Samut Sakhon 2) Hospital,Samut Sakhon,Mueang,74
+Amphawa Hospital,Samut Songkhram,Amphawa,33
+Napalai Hospital,Samut Songkhram,Bang Khonthi,90
+Ban Mo Hospital,Saraburi,Ban Mo,30
+Don Phut Hospital,Saraburi,Don Phut,15
+Kaeng Khoi Hospital,Saraburi,Kaeng Khoi,68
+Muak Lek Hospital,Saraburi,Muak Lek,35
+Nong Don Hospital,Saraburi,Nong Don,20
+Nong Khae Hospital,Saraburi,Nong Khae,65
+Nong Saeng Hospital,Saraburi,Nong Saeng,15
+Sao Hai Chaloem Phrakiat Hospital,Saraburi,Sao Hai,28
+Wang Muang Sattatham Hospital,Saraburi,Wang Muang,33
+Wihan Daeng Hospital,Saraburi,Wihan Daeng,48
+Khuan Don Hospital,Satun,Khuan Don,34
+Khuan Kalong Hospital,Satun,Khuan Kalong,36
+La-ngu Hospital,Satun,La-ngu,136
+Manang Hospital,Satun,Manang,32
+Tha Phae Hospital,Satun,Tha Phae,69
+Thung Wa Hospital,Satun,Thung Wa,30
+Bang Rachan Hospital,Singburi,Bang Rachan,35
+Khai Bang Rachan Hospital,Singburi,Khai Bang Rachan,30
+Phrom Buri Hospital,Singburi,Phrom Buri,28
+Tha Chang Hospital,Singburi,Tha Chang,42
+Benchalak Chaloem Phrakiat Hospital,Sisaket,Benchalak,30
+Bueng Bun Hospital,Sisaket,Bueng Bun,30
+Huai Thap Than Hospital,Sisaket,Huai Thap Than,30
+Kanthararom Hospital,Sisaket,Kanthararom,120
+Khu Khan Hospital,Sisaket,Khu Khan,135
+Khun Han Hospital,Sisaket,Khun Han,94
+Mueang Chan Hospital,Sisaket,Mueang Chan,30
+Nam Kliang Hospital,Sisaket,Nam Kliang,32
+Non Khun Hospital,Sisaket,Non Khun,30
+Phayu Hospital,Sisaket,Phayu,30
+Pho Si Suwan Hospital,Sisaket,Pho Si Suwan,30
+Phrai Bueng Hospital,Sisaket,Phrai Bueng,33
+Phu Sing Hospital,Sisaket,Phu Sing,34
+Prang Ku Hospital,Sisaket,Prang Ku,60
+Rasi Salai Hospital,Sisaket,Rasi Salai,90
+Sila Lat Hospital,Sisaket,Sila Lat,30
+Si Rattana Hospital,Sisaket,Si Rattana,70
+Uthumphon Phisai Hospital,Sisaket,Uthumphon Phisai,130
+Wang Hin Hospital,Sisaket,Wang Hin,34
+Yang Chum Noi Hospital,Sisaket,Yang Chum Noi,33
+Bang Klam Hospital,Songkhla,Bang Klam,40
+Chana Hospital,Songkhla,Chana,64
+Her Majesty the Queen's Hospital Na Thawi,Songkhla,Na Thawi,150
+Khlong Hoi Khong Hospital,Songkhla,Khlong Hoi Khong,30
+Khuan Niang Hospital,Songkhla,Khuan Niang,39
+Krasae Sin Hospital,Songkhla,Krasae Sin,30
+Na Mom Hospital,Songkhla,Na Mom,30
+Padang Besar Hospital,Songkhla,Sadao,34
+Ranot Hospital,Songkhla,Ranot,62
+Rattaphum Hospital,Songkhla,Rattaphum,73
+Saba Yoi Hospital,Songkhla,Saba Yoi,30
+Sadao Hospital,Songkhla,Sadao,74
+Sathing Phra Hospital,Songkhla,Sathing Phra,42
+Singhanakhon Hospital,Songkhla,Singhanakhon,30
+Thepha Hospital,Songkhla,Thepha,60
+Ban Dan Lan Hoi Hospital,Sukhothai,Ban Dan Lan Hoi,35
+Khiri Mat Hospital,Sukhothai,Khiri Mat,50
+Kong Krailat Hospital,Sukhothai,Kong Krailat,41
+Sawankhalok Hospital,Sukhothai,Sawankhalok,111
+Si Nakhon Hospital,Sukhothai,Si Nakhon,30
+Si Satchanalai Hospital,Sukhothai,Si Satchanalai,60
+Thung Saliam Hospital,Sukhothai,Thung Saliam,40
+Bang Pla Ma Hospital,Suphan Buri,Bang Pla Ma,60
+Dan Chang Hospital,Suphan Buri,Dan Chang,111
+Doem Bang Nang Buat Hospital,Suphan Buri,Doem Bang Nang Buat,109
+Don Chedi Hospital,Suphan Buri,Don Chedi,60
+Nong Ya Sai Hospital,Suphan Buri,Nong Ya Sai,60
+Sam Chuk Hospital,Suphan Buri,Sam Chuk,83
+Si Prachan Hospital,Suphan Buri,Si Prachan,60
+U Thong Hospital,Suphan Buri,U Thong,134
+Ban Na Doem Hospital,Surat Thani,Ban Na Doem,30
+Ban Na San Hospital,Surat Thani,Ban Na San,65
+Ban Ta Khun Hospital,Surat Thani,Ban Ta Khun,30
+Chai Buri Hospital,Surat Thani,Chai Buri,30
+Chaiya Hospital,Surat Thani,Chaiya,60
+Don Sak Hospital,Surat Thani,Don Sak,30
+Kanchanadit Hospital,Surat Thani,Kanchanadit,120
+Khian Sa Hospital,Surat Thani,Khian Sa,32
+Khiri Rat Nikhom Hospital,Surat Thani,Khiri Rat Nikhom,40
+Ko Pha-ngan Hospital,Surat Thani,Ko Pha-ngan,50
+Ko Tao Hospital,Surat Thani,Ko Pha-ngan,10
+Phanom Hospital,Surat Thani,Phanom,30
+Phrasaeng Hospital,Surat Thani,Phrasaeng,60
+Phunphin Hospital,Surat Thani,Phunphin,60
+Tha Chana Hospital,Surat Thani,Tha Chana,30
+Tha Chang Hospital,Surat Thani,Tha Chang,30
+Tha Rong Chang Hospital,Surat Thani,Tha Rong Chang,90
+Vibhavadi Hospital,Surat Thani,Vibhavadi,30
+Wiang Sa Crown Prince Hospital,Surat Thani,Wiang Sa,120
+Bua Chet Hospital,Surin,Bua Chet,50
+Chom Phra Hospital,Surin,Chom Phra,60
+Chumphon Buri Hospital,Surin,Chumphon Buri,60
+Kap Choeng Hospital,Surin,Kap Choeng,97
+Khwao Sinarin Hospital,Surin,Khwao Sinarin,30
+Lamduan Hospital,Surin,Lamduan,115
+Non Narai Hospital,Surin,Non Narai,30
+Phanom Dongrak Chaloem Phrakiat Hospital,Surin,Phanom Dongrak,30
+Rattanaburi Hospital,Surin,Rattanaburi,130
+Samrong Thap Hospital,Surin,Samrong Thap,66
+Sangkha Hospital,Surin,Sangkha,216
+Sanom Hospital,Surin,Sanom,39
+Si Narong Hospital,Surin,Si Narong,36
+Tha Tum Hospital,Surin,Tha Tum,140
+Ban Tak Hospital,Tak,Ban Tak,65
+Mae Ramat Hospital,Tak,Mae Ramat,120
+Phop Phra Hospital,Tak,Phop Phra,136
+Sam Ngao Hospital,Tak,Sam Ngao,36
+Tha Song Yang Hospital,Tak,Tha Song Yang,100
+Umphang Hospital,Tak,Umphang,75
+Wang Chao Hospital,Tak,Wang Chao,30
+Hat Samran Chaloem Phrakiat Hospital,Trang,Hat Samran,37
+Huai Yot Hospital,Trang,Huai Yot,100
+Kantang Hospital,Trang,Kantang,95
+Na Yong Hospital,Trang,Na Yong,60
+Palian Hospital,Trang,Palian,40
+Ratsada Hospital,Trang,Ratsada,49
+Sikao Hospital,Trang,Sikao,48
+Wang Wiset Hospital,Trang,Wang Wiset,34
+Yan Ta Khao Hospital,Trang,Yan Ta Khao,94
+Bo Rai Hospital,Trat,Bo Rai,37
+Khao Saming Hospital,Trat,Khao Saming,36
+Khlong Yai Hospital,Trat,Khlong Yai,39
+Ko Chang Hospital,Trat,Ko Chang,26
+Ko Kut Hospital,Trat,Ko Kut,7
+Laem Ngop Hospital,Trat,Laem Ngop,30
+Buntharik Hospital,Ubon Ratchathani,Buntharik,61
+Don Mot Daeng Hospital,Ubon Ratchathani,Don Mot Daeng,30
+Khemarat Hospital,Ubon Ratchathani,Khemarat,60
+Khong Chiam Hospital,Ubon Ratchathani,Khong Chiam,30
+Khueang Nai Hospital,Ubon Ratchathani,Khueang Nai,120
+Kut Khao Pun Hospital,Ubon Ratchathani,Kut Khao Pun,30
+Lao Suea Kok Hospital,Ubon Ratchathani,Lao Suea Kok,30
+Muang Sam Sip Hospital,Ubon Ratchathani,Muang Sam Sip,90
+Na Chaluai Hospital,Ubon Ratchathani,Na Chaluai,30
+Na Tan Hospital,Ubon Ratchathani,Na Tan,30
+Na Yia Hospital,Ubon Ratchathani,Na Yia,30
+Nam Khun Hospital,Ubon Ratchathani,Nam Khun,30
+Nam Yuen Hospital,Ubon Ratchathani,Nam Yuen,80
+Phibun Mangsahan Hospital,Ubon Ratchathani,Phibun Mangsahan,154
+Pho Sai Hospital,Ubon Ratchathani,Pho Sai,40
+Samrong Hospital,Ubon Ratchathani,Samrong,30
+Sawang Wirawong Hospital,Ubon Ratchathani,Sawang Wirawong,30
+Si Mueang Mai Hospital,Ubon Ratchathani,Si Mueang Mai,60
+Sirindhorn Hospital,Ubon Ratchathani,Sirindhorn,30
+Tan Sum Hospital,Ubon Ratchathani,Tan Sum,30
+Thung Si Udom Hospital,Ubon Ratchathani,Thung Si Udom,30
+Ban Dung Crown Prince Hospital,Udon Thani,Ban Dung,139
+Ban Phue Hospital,Udon Thani,Ban Phue,126
+Chai Wan Hospital,Udon Thani,Chai Wan,30
+Huai Koeng Hospital,Udon Thani,Huai Koeng,8
+Ku Kaeo Hospital,Udon Thani,Ku Kaeo,30
+Kut Chap Hospital,Udon Thani,Kut Chap,60
+Na Yung Hospital,Udon Thani,Na Yung,30
+Nam Som Hospital,Udon Thani,Nam Som,60
+Non Sa-at Hospital,Udon Thani,Non Sa-at,40
+Nong Han Hospital,Udon Thani,Nong Han,137
+Nong Saeng Hospital,Udon Thani,Nong Saeng,30
+Nong Wua So Hospital,Udon Thani,Nong Wua So,60
+Phen Hospital,Udon Thani,Phen,114
+Phibun Rak Hospital,Udon Thani,Phibun Rak,30
+Prachaksinlapakhom Hospital,Udon Thani,Prachaksinlapakhom,30
+Sang Khom Hospital,Udon Thani,Sang Khom,30
+Si That Hospital,Udon Thani,Si That,30
+Thung Fon Hospital,Udon Thani,Thung Fon,30
+Wang Sam Mo Hospital,Udon Thani,Wang Sam Mo,55
+Ban Rai Hospital,Uthai Thani,Ban Rai,62
+Huai Khot Hospital,Uthai Thani,Huai Khot,30
+Lan Sak Hospital,Uthai Thani,Lan Sak,60
+Nong Chang Hospital,Uthai Thani,Nong Chang,90
+Nong Kha Yang Hospital,Uthai Thani,Nong Kha Yang,10
+Sawang Arom Hospital,Uthai Thani,Sawang Arom,30
+Thap Than Hospital,Uthai Thani,Thap Than,90
+Ban Khok Hospital,Uttaradit,Ban Khok,31
+Fak Tha Hospital,Uttaradit,Fak Tha,30
+Lap Lae Hospital,Uttaradit,Lap Lae,50
+Nam Pat Hospital,Uttaradit,Nam Pat,30
+Phichai Hospital,Uttaradit,Phichai,70
+Tha Pla Hospital,Uttaradit,Tha Pla,30
+Thong Saen Khan Hospital,Uttaradit,Thong Saen Khan,36
+Tron Hospital,Uttaradit,Tron,35
+Bannang Sata Hospital,Yala,Bannang Sata,60
+Kabang Hospital,Yala,Kabang,30
+Krong Pinang Hospital,Yala,Krong Pinang,30
+Raman Hospital,Yala,Raman,90
+Than To Hospital,Yala,Than To,36
+Yaha Crown Prince Hospital,Yala,Yaha,90
+Kham Khuean Kaeo Hospital,Yasothon,Kham Khuean Kaeo,60
+Kho Wang Hospital,Yasothon,Kho Wang,30
+Kut Chum Hospital,Yasothon,Kut Chum,30
+Loeng Nok Tha Crown Prince Hospital,Yasothon,Loeng Nok Tha,120
+Maha Chana Chai Hospital,Yasothon,Maha Chana Chai,30
+Pa Tio Hospital,Yasothon,Pa Tio,30
+Sai Mun Hospital,Yasothon,Sai Mun,30
+Thai Charoen Hospital,Yasothon,Thai Charoen,30
